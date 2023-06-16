@@ -24,7 +24,7 @@ Freshcan is an app to help people get the prediction of fruits and vegetables fr
 
 - ### [&nbsp;&nbsp;Machine Learning &rarr;](https://github.com/Freshcan/machine-learning/blob/main/README.md)
 - ### [&nbsp;&nbsp;API Documentation &rarr;](https://github.com/Freshcan/cc-backend/blob/master/readme.md)
-- ### [&nbsp;&nbsp;Deploying to GCP &rarr;]
+- ### [&nbsp;&nbsp;Architecture on GCP &rarr;]
 
 ## Application Release
 ### [&nbsp;&nbsp;Download our latest app](https://github.com/Freshcan/android-kotlin/releases)
