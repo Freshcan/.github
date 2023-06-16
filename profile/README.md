@@ -1,6 +1,8 @@
 # C23-PR547 - Bangkit Capstone Project 
 
 <p align="center">
+  <img width="35%" src="![Group 8](https://github.com/Freshcan/.github/assets/71454174/494312b2-394c-4518-93ce-a24bfd5f33c1)
+" alt="Freshcan"><br>
   <h2 align="center">Freshcan</h2>
 </p>
 
