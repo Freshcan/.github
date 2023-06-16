@@ -1,8 +1,7 @@
 # C23-PR547 - Bangkit Capstone Project 
 
 <p align="center">
-  <img width="35%" src="![Group 8](https://github.com/Freshcan/.github/assets/71454174/494312b2-394c-4518-93ce-a24bfd5f33c1)
-" alt="Freshcan"><br>
+  <img width="10%" src="https://github.com/Freshcan/.github/blob/main/Freshcan%20logo.png" alt="Freshcan"><br>
   <h2 align="center">Freshcan</h2>
 </p>
 
@@ -21,9 +20,8 @@ Freshcan is an app to help people get the prediction of fruits and vegetables fr
 |5.| Nancy Laylana Putri | C169DSY3194 |  Universitas Gadjah Mada | Cloud Computing
 |6.| Muhammad Farkhan Maulana  |C131DSX0880  |   Universitas Ahmad Dahlan | Cloud Computing
 
+## Documentation
 
-<!-- <tr>
-  <th>Name</th>
-  <th>Bangkit ID</th>
-  <th>University</th>
-</tr> -->
+- ### [&nbsp;&nbsp;Machine Learning &rarr;](https://github.com/Freshcan/machine-learning/blob/main/README.md)
+- ### [&nbsp;&nbsp;API Documentation &rarr;](https://github.com/Freshcan/cc-backend/blob/master/readme.md)
+- ### [&nbsp;&nbsp;Deploying to GCP &rarr;]
